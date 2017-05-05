@@ -1,7 +1,7 @@
-# React Bootstarp Demo
+# React Bootstrap Demo
 A chat demo what is built with Facebook React and Twitter Bootstrap, based on [react-tutorial](https://github.com/reactjs/react-tutorial).
 
-[Demo](http://shy07chat.sinaapp.com/)
+[Demo](http://chat.shy07.com/)
 
 ## Run at localhost
 ```
